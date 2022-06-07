@@ -1,0 +1,60 @@
+1------------------------
+
+texte : La vie, c'est comme une boite de chocolats : on sait jamais sur quoi on va tomber.
+auteur : Forest Gump
+
+2------------------------
+
+texte : La vie est un mystère qu'il faut vivre, et non un problème à résoudre.
+auteur : Gandhi
+
+3------------------------
+
+texte : Le plus grand risque est de ne prendre aucun risque.
+auteur : Mark Zuckerberg
+
+4------------------------
+
+texte : Méritez votre statut de leader chaque jour.
+auteur : Mickael Jordan
+
+5------------------------
+
+texte : Soyez le changement que vous voulez voir dans le monde.
+auteur : Gandhi
+
+6------------------------
+
+texte : A chaque fois que vous vous retrouvez du même côté que la majorité, il est temps de prendre du recul, et de réfléchir.
+auteur : Mark Twain
+
+7------------------------
+
+texte : Seulement ceux qui prendront le risque d’aller trop loin découvriront jusqu’où on peut aller.
+auteur : T.S Elliot
+
+8------------------------
+
+texte : Le succès c’est tomber sept fois, se relever huit.
+auteur : Proverbe japonais
+
+9------------------------
+
+texte : Dans vingt ans vous serez plus déçus par les choses que vous n’avez pas faites que par celles que vous avez faites. Alors sortez des sentiers battus. Mettez les voiles. Explorez. Rêvez. Découvrez.
+auteur : Mark Twain
+
+10------------------------
+
+texte : Si vous attendez pour agir, tout ce que vous gagnerez, avec le temps, c’est de l’âge.
+auteur : Brian Tracy
+
+11------------------------
+
+texte : Quand on concentre son attention sur un seul projet, l’esprit suggère constamment des idées et des améliorations qui lui échapperaient s’il était occupé avec plusieurs projets en même temps.
+auteur : P.T. Barnum
+
+12------------------------
+
+texte : Se dédier à faire tout ce que l’on peut pour aider les autres à obtenir ce qu’ils veulent, c’est la clé du succès.
+auteur : Brian Sher
+
